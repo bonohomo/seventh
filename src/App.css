@@ -21,3 +21,12 @@ a.active {
 .my {
   color: blue;
 }
+
+.orange {
+  color: orange;
+}
+
+.content {
+  width: 500px;
+  margin: 0 auto;
+}
